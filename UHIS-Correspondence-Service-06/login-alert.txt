@@ -1,0 +1,22 @@
+Dear {{FULL_NAME}},<br><br>
+
+We are happy to inform you that you have successfully signed in to your account.<br><br>
+
+Sign-In Details:
+----------------------------------------
+Full Name     : {{FULL_NAME}}<br>
+Username      : {{USER_NAME}}<br>
+----------------------------------------
+
+You now have full access to your account and can continue using our services without interruption.<br>
+
+If you did not perform this sign-in or notice any unusual activity, please contact our support team immediately.<br><br><br>
+
+Support Email : support@yourcompany.com  <br>
+Website       : www.abc.com  <br><br>
+
+Thank you for choosing our application.<br><br><br>
+
+Best Regards,  <br>
+Customer Support Team,<br>
+Your Company Name.

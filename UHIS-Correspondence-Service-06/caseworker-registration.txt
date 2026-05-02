@@ -1,0 +1,32 @@
+Dear {{FULL_NAME}},<br><br>
+
+Thank you for registering with us! 🎉  <br>
+We are happy to inform you that your account has been created successfully.<br><br>
+
+Here are your registration details:<br><br>
+
+-----------------------------------------<br>
+Full Name   : {{FULL_NAME}}<br>
+Username    : {{USER_NAME}}<br>
+Password    : {{PASS_WORD}}<br>
+Phone No    : {{PHONE_NO}}<br>
+-----------------------------------------<br><br>
+
+You can now log in to your account and start using our services.<br><br>
+
+To unlock your account:<br><br>
+
+1. Log in using the temporary password<br>
+2. You will be prompted to set a new password<br>
+3. Once updated, your account will be unlocked<br>
+
+If you did not perform this registration or have any questions, please contact our support team immediately.<br><br>
+
+Support Email: support@yourcompany.com  <br>
+Website      : www.abc.com<br><br>
+
+We’re excited to have you onboard!<br><br>
+
+Best Regards,  <br>
+Customer Support Team  <br>
+Your Company Name<br>
